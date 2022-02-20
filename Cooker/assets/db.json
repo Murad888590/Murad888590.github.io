@@ -1,0 +1,32 @@
+{
+   "styles": [
+       {
+           "src": "assets/img/food/first.jfif",
+           "title": "Bried eggs",
+           "star": "assets/img/food/Vector.png",
+           "current": 3.5,
+           "total": 5
+       },
+       {
+           "src": "assets/img/food/Без названия (6).jfif",
+           "title": "Beef and bried fish",
+           "star": "assets/img/food/Vector.png",
+           "current": 1.7,
+           "total": 5
+       },
+       {
+           "src": "assets/img/food/Без названия (7).jfif",
+           "title": "bried fish",
+           "star": "assets/img/food/Vector.png",
+           "current": 3.2,
+           "total": 5
+       },
+       {
+           "src": "assets/img/food/Без названия (8).jfif",
+           "title": "Pizza",
+           "star": "assets/img/food/Vector.png",
+           "current": 4.2,
+           "total": 5
+       }
+   ]
+}
