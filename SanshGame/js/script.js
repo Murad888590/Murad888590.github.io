@@ -42,7 +42,7 @@ class Box {
          if(this.login.value === "Murad" && this.pass.value === "123") {
             this.blocked.style.marginRight = `-100%`
          } else {
-            alert("ss")
+            alert("parol səhvdir")
          }
       })
    }
