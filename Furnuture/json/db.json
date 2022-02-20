@@ -1,0 +1,20 @@
+{
+   "styles": [
+       {    
+            "name": "Alexandr Morales",
+            "img": "../image/comments/bg_12330.png",
+            "desc": "Thank you very much for the chic headset. The guys are great, well done. We assembled our headset very carefully."
+       },
+       {
+        "name": "Alexandr Morales",
+         "img": "../image/comments/bg_12343.png",
+         "desc": "We are satisfied with the work, the cabinets were delivered ahead of schedule. Nothing was broken or scratched during shipment. The cabinets were assembled with high quality, the service was at a good level. The staff are friendly and adequate. Thank you for the quality work done"
+       },
+       {
+        "name": "Alexandr Morales",
+         "img": "../image/comments/bg_12355.png",
+         "desc": "We are very satisfied with the product, a huge gratitude to Andrey Arkadievich Gembakh personally, for his professionalism and attention to customers. Thank you."
+       }
+      
+   ]
+}
