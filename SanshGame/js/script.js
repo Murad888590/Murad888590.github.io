@@ -1,3 +1,5 @@
+alert("Login: Murad, parol: 123")
+
 class Box {
    constructor(door, text, giftText, giftModal, giftModalText, close, blocked, login, pass, form) {
       this.door = document.querySelectorAll(door)
